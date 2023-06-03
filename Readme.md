@@ -6,4 +6,4 @@ I study in Netology
 
 Error attempt №2
 
-pull request
+pull request new branch
